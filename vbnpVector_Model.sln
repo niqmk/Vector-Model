@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "vbnpVector_Model", "vbnpVector_Model.vbproj", "{C30CA462-776F-4727-8C97-A25295251D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30CA462-776F-4727-8C97-A25295251D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30CA462-776F-4727-8C97-A25295251D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30CA462-776F-4727-8C97-A25295251D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30CA462-776F-4727-8C97-A25295251D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
